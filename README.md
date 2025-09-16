@@ -87,13 +87,22 @@ I'm a **QA Automation Engineer** with **4+ years** of specialized experience in 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-00&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-00&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-00&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-00&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
 </div>
+
+<!-- Alternative method with timestamp for manual refresh if needed -->
+<!-- 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&t=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-00&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&t=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-00&theme=tokyonight&border_radius=10&t=1" alt="GitHub Streak" />
+</div>
+-->
 
 ### 💻 Primary Technologies I Work With
 <div align="center">
