@@ -100,13 +100,12 @@ I'm a **QA Automation Engineer** with **4+ years** of specialized experience in 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&hide_border=false&cache_seconds=86400"/> <br>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Aftab-00&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" /><br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-00&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&hide_border=false&cache_seconds=86400"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-00&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&hide_border=true&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com?user=Aftab-00&theme=tokyonight-duo&short_numbers=true" alt="GitHub Streak" />
 
 [//]: # (<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-00&theme=tokyonight&border_radius=10&t=1&layout=compact&bg_color=0D1117&hide_border=true&t=1" alt="GitHub Streak" />)
 </div>
-
 ---
 
 ### 💻 Primary Technologies I Work With
